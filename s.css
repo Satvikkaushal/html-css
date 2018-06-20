@@ -1,0 +1,160 @@
+body{
+	margin:0;
+}
+header{
+	height: 183px;
+}
+nav pre{
+	margin: 0px;
+	float: left;
+
+}
+nav  ul{
+	margin:0px;
+	float: left;
+}
+nav  ul li
+{
+	margin: 0px 0px 0px 130px;
+	list-style-type:none;
+	float:left;
+	font-family: bold;
+	font-size: 20px;
+	font-weight: 1500;
+	color:red;
+}
+.a{
+	color: grey;
+}
+.a:hover
+{
+	color: red;
+}
+.b{
+	border: 2px solid white;
+	background-color:#f4511e;
+	color: white;
+	font-size: 20px;
+	margin:0px 0px 10px 0px;
+	padding: 5px 10px 5px 10px;
+}
+.b:hover{
+	color:#f4511e;
+	border: 2px solid #f4511e;
+	background-color: white;
+}
+.c{
+	display:inline-block;
+    width: 60%;
+    border: 2px solid #f4511e;
+    background-color:white;
+    color: #f4511e;
+    padding: 14px 28px;
+    font-size: 20px;
+    cursor: pointer;
+    text-align: center;
+    margin: 30px;
+    font-family: bold;
+}
+.c:hover
+{
+  background-color:#f4511e;
+  color: white;
+
+}
+.card
+{
+	width: 30%;
+}
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.matter{
+	text-align: justify;
+	text-justify:inter-word;
+}
+				.parallax {
+    background-image: url("p1.jpg");
+   min-height: 700px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+				.parallax1 {
+    background-image: url("moctails.jpg");
+   min-height: 1200px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col{
+	float: left;
+	width: 33.33%;
+	height: 300px;
+	
+}
+.row{
+	background-color: white;
+}
+.card{
+	width: 90%;
+	margin: 0px 20px 0px 20px;
+}
+.img{
+	width:403px;
+	height:200px;
+}
+.footer{
+	background-color: white;
+	height: 150px
+
+}
+.d
+{
+	size: 2px;
+	color: grey;
+}
+.z{
+	text-decoration: none;
+	color: black;
+}
+.fo
+{
+	margin: 10px;
+	padding: 10px;
+}
+.social{
+	width:30px;
+	height:30px;
+
+}
+.social:hover
+{
+	background: rgba(0,0,0,0.2);
+
+}
+.col1{
+	float: left;
+	width: 33.33%;
+	height: 130px;
+	
+}
+.card1{
+	width: 90%;
+	margin: 10px 20px 0px 20px;
+	padding:20px 0px 0px 95px;
+}
+.card2{
+	width: 90%;
+	margin: 20px 20px 0px 20px;
+	padding: 0px 10px 0px 110px;
+}
+.card3{
+	width: 90%;
+	margin: 10px 20px 0px 20px;
+	padding: 20px 40px 0px 10px;
+}
+
